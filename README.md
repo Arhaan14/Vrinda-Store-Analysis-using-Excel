@@ -1,4 +1,4 @@
-# Vrinda-Store-Analysis-using-Excel
+# Store-Analysis-using-Excel
 
 This repository contains the analysis of Vrinda Store, a fictional retail store, conducted using Microsoft Excel. The project aims to derive insights into the store's performance, customer behavior, and overall sales trends.
 
